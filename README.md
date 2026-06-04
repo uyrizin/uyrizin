@@ -1,19 +1,20 @@
-# Ola, eu sou Yuri Higa
+# Yuri Higa
 
-Desenvolvedor back-end Junior focado em **C#**, **.NET**, **APIs REST**, **bancos de dados**, **Docker**, **AWS**, **DevOps** e **IA aplicada ao desenvolvimento**.
+**Back-end Developer Jr | C# .NET | APIs REST | SQL | Docker | AWS | DevOps | Security**
 
-Atualmente estudo e construo projetos praticos para evoluir em backend, cloud, DevOps e arquitetura de software.
+Sou desenvolvedor back-end em formacao, focado em construir APIs bem organizadas com C# e .NET, banco de dados, fundamentos de cloud e boas praticas de seguranca.
 
-## Foco atual
+Meu objetivo e atuar como desenvolvedor .NET Jr e evoluir para Cloud Security, DevSecOps e seguranca aplicada ao desenvolvimento de software.
 
-- Desenvolvimento de APIs com ASP.NET Core
-- Entity Framework Core, SQL Server e MySQL
-- Autenticacao com JWT
-- Docker e fundamentos de DevOps
-- AWS
-- IA aplicada a sistemas backend
+## Direcao profissional
 
-## Tecnologias
+- Desenvolvimento back-end com C#, .NET e ASP.NET Core
+- APIs REST com Entity Framework Core e SQL Server
+- Fundamentos de AWS, Docker, Kubernetes e DevOps
+- Seguranca aplicada em aplicacoes, IAM, logs, hardening e OWASP
+- Evolucao continua em ingles tecnico e documentacao profissional
+
+## Stack atual
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -26,20 +27,26 @@ Atualmente estudo e construo projetos praticos para evoluir em backend, cloud, D
 
 ## Projetos em destaque
 
-| Projeto | Descricao | Tecnologias |
+| Projeto | O que demonstra | Tecnologias |
 |---|---|---|
-| API de Produtos | API REST com CRUD, validacoes, EF Core e Swagger | C#, .NET, EF Core |
-| Kube News | Laboratorio de Docker/Kubernetes com health check e metricas | Node.js, Docker, Kubernetes |
-| Simulador do Caos | Projeto para praticar resiliencia, falhas controladas e observabilidade | .NET, DevOps |
-| Portfolio | Portfolio pessoal para apresentacao profissional | TypeScript, Next.js |
+| [Contact Management API](https://github.com/uyrizin/PROJETO-API--DIO) | API REST com CRUD, EF Core, SQL Server, migrations e endpoints documentados | C#, .NET, ASP.NET Core, EF Core |
+| [Portfolio](https://github.com/uyrizin/Portifolio-) | Apresentacao profissional, projetos e stack | TypeScript |
+| [Kube News](https://github.com/uyrizin/kube-news) | Laboratorio de containers, Kubernetes, health checks e metricas | Docker, Kubernetes, Node.js |
+| [Trilha .NET POO](https://github.com/uyrizin/trilha-net-poo-desafio) | Fundamentos de orientacao a objetos em C# | C#, .NET |
 
-## Estou construindo
+## Em construcao
 
-- Sistema de Estudos com IA
 - API com autenticacao JWT e refresh token
-- API com Redis cache
-- Knowledge Base com RAG
-- Projetos praticos para portfolio back-end
+- Projeto autoral com .NET, Docker, testes e GitHub Actions
+- Estudos para AWS Certified Cloud Practitioner
+- Base de DevSecOps: seguranca em API, dependencias, CI/CD e cloud
+
+## Como penso desenvolvimento
+
+- Escrever codigo simples, legivel e testavel
+- Documentar projetos para qualquer pessoa conseguir rodar
+- Entender fundamentos antes de seguir hype
+- Unir desenvolvimento, cloud, automacao e seguranca
 
 ## GitHub Stats
 
@@ -51,4 +58,3 @@ Atualmente estudo e construo projetos praticos para evoluir em backend, cloud, D
 
 - GitHub: [github.com/uyrizin](https://github.com/uyrizin)
 - LinkedIn: [linkedin.com/in/yuri-higa-885750334](https://www.linkedin.com/in/yuri-higa-885750334)
-

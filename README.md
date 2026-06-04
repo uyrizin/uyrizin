@@ -54,6 +54,14 @@ Meu objetivo e atuar como desenvolvedor .NET Jr e evoluir para Cloud Security, D
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyrizin&layout=compact&theme=tokyonight&hide_border=true)
 
+## Contribuicoes
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uyrizin/uyrizin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uyrizin/uyrizin/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation showing Yuri Higa GitHub contributions" src="https://raw.githubusercontent.com/uyrizin/uyrizin/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Contato
 
 - GitHub: [github.com/uyrizin](https://github.com/uyrizin)

@@ -11,8 +11,8 @@ Meu objetivo e atuar como desenvolvedor .NET Jr e evoluir para Cloud Security, D
 - Desenvolvimento back-end com C#, .NET e ASP.NET Core
 - APIs REST com Entity Framework Core e SQL Server
 - Fundamentos de AWS, Docker, Kubernetes e DevOps
-- Seguranca aplicada em aplicacoes, IAM, logs, hardening e OWASP
-- Evolucao continua em ingles tecnico e documentacao profissional
+- Seguranca aplicada em aplicacoes, IAM, logs, hardening 
+  
 
 ## Stack atual
 

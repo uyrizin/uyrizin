@@ -1,68 +1,47 @@
 # Yuri Higa
 
-**Back-end Developer Jr | C# .NET | APIs REST | SQL | Docker | AWS | DevOps | Security**
+**Cybersecurity Student | Offensive Security | AppSec | Pentest Labs | Security Research**
 
-Sou desenvolvedor back-end em formacao, focado em construir APIs bem organizadas com C# e .NET, banco de dados, fundamentos de cloud e boas praticas de seguranca.
+Estudante de Cibersegurança na FIAP, com foco em segurança ofensiva ética, segurança de aplicações e pesquisa técnica em ambientes autorizados.
 
-Meu objetivo e atuar como desenvolvedor .NET Jr e evoluir para Cloud Security, DevSecOps e seguranca aplicada ao desenvolvimento de software.
+Estou construindo experiência prática por meio de laboratórios, estudos estruturados e desenvolvimento de ferramentas próprias. Meu objetivo é evoluir para atuar profissionalmente com Penetration Testing, Application Security e Red Team.
 
-## Direcao profissional
+## Áreas de interesse e estudo
 
-- Desenvolvimento back-end com C#, .NET e ASP.NET Core
-- APIs REST com Entity Framework Core e SQL Server
-- Fundamentos de AWS, Docker, Kubernetes e DevOps
-- Seguranca aplicada em aplicacoes, IAM, logs, hardening 
-  
+- Segurança ofensiva e testes de intrusão autorizados
+- Application Security (AppSec) e segurança de APIs
+- Linux, redes e fundamentos de infraestrutura
+- Pesquisa e análise de vulnerabilidades
+- Automação de tarefas de segurança
+- Cloud Security e DevSecOps
+- Inteligência artificial aplicada à segurança
 
-## Stack atual
+## Projetos autorais em desenvolvimento
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Projeto | Foco |
+|---|---|
+| **WiFi Sentinel** | Ferramentas e experimentos para auditoria e diagnóstico de redes Wi-Fi em ambientes autorizados |
+| **AEGIS** | Projeto de ferramentas modulares para avaliação de segurança |
+| **ORION** | Projeto autoral de tecnologia e automação em desenvolvimento |
 
-## Projetos em destaque
+> Os projetos estão em evolução. Os repositórios de apresentação serão publicados com escopo, arquitetura, funcionalidades verificadas, instruções de laboratório e limitações. Não apresento funcionalidades planejadas como se já estivessem implementadas.
 
-| Projeto | O que demonstra | Tecnologias |
-|---|---|---|
-| [Contact Management API](https://github.com/uyrizin/PROJETO-API--DIO) | API REST com CRUD, EF Core, SQL Server, migrations e endpoints documentados | C#, .NET, ASP.NET Core, EF Core |
-| [Portfolio](https://github.com/uyrizin/Portifolio-) | Apresentacao profissional, projetos e stack | TypeScript |
-| [Kube News](https://github.com/uyrizin/kube-news) | Laboratorio de containers, Kubernetes, health checks e metricas | Docker, Kubernetes, Node.js |
-| [Trilha .NET POO](https://github.com/uyrizin/trilha-net-poo-desafio) | Fundamentos de orientacao a objetos em C# | C#, .NET |
+## Formação e desenvolvimento
 
-## Em construcao
+- Tecnologia em Cibersegurança — FIAP (em andamento)
+- Estudos de Desenvolvimento Seguro de Aplicações e Cloud Security — Alura
+- Prática em laboratórios próprios e plataformas de treinamento
+- Desenvolvimento contínuo em Linux, redes, programação e segurança de aplicações
 
-- API com autenticacao JWT e refresh token
-- Projeto autoral com .NET, Docker, testes e GitHub Actions
-- Estudos para AWS Certified Cloud Practitioner
-- Base de DevSecOps: seguranca em API, dependencias, CI/CD e cloud
+## Princípios de trabalho
 
-## Como penso desenvolvimento
-
-- Escrever codigo simples, legivel e testavel
-- Documentar projetos para qualquer pessoa conseguir rodar
-- Entender fundamentos antes de seguir hype
-- Unir desenvolvimento, cloud, automacao e seguranca
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uyrizin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyrizin&layout=compact&theme=tokyonight&hide_border=true)
-
-## Contribuicoes
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uyrizin/uyrizin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uyrizin/uyrizin/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation showing Yuri Higa GitHub contributions" src="https://raw.githubusercontent.com/uyrizin/uyrizin/output/github-contribution-grid-snake.svg" />
-</picture>
+- Testar somente sistemas próprios ou com autorização explícita
+- Documentar metodologia, evidências e resultados reproduzíveis
+- Priorizar segurança, privacidade e divulgação responsável
+- Separar funcionalidades implementadas de itens planejados
+- Construir ferramentas com escopo claro e controles de segurança
 
 ## Contato
 
-- GitHub: [github.com/uyrizin](https://github.com/uyrizin)
 - LinkedIn: [linkedin.com/in/yuri-higa-885750334](https://www.linkedin.com/in/yuri-higa-885750334)
+- GitHub: [github.com/uyrizin](https://github.com/uyrizin)

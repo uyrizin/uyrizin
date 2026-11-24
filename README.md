@@ -1,45 +1,56 @@
 # Yuri Higa
 
-**Cybersecurity Student | Offensive Security | AppSec | Pentest Labs | Security Research**
+**Cybersecurity Student | AppSec | Vulnerability Analysis | Offensive Security**
 
-Estudante de Cibersegurança na FIAP, com foco em segurança ofensiva ética, segurança de aplicações e pesquisa técnica em ambientes autorizados.
+Estudante de Tecnologia em Cibersegurança na FIAP, desenvolvendo conhecimentos práticos em segurança de aplicações, redes, Linux e avaliação de segurança em ambientes controlados e autorizados.
 
-Estou construindo experiência prática por meio de laboratórios, estudos estruturados e desenvolvimento de ferramentas próprias. Meu objetivo é evoluir para atuar profissionalmente com Penetration Testing, Application Security e Red Team.
+Busco uma oportunidade de entrada em Cibersegurança — como estágio ou posição júnior — com interesse especial em **Application Security (AppSec), análise de vulnerabilidades, segurança ofensiva e Pentest**. Também considero oportunidades em SOC/Blue Team e operações de segurança como caminhos para adquirir experiência profissional e ampliar minha atuação técnica.
 
-## Áreas de interesse e estudo
+## Foco profissional
 
-- Segurança ofensiva e testes de intrusão autorizados
-- Application Security (AppSec) e segurança de APIs
-- Linux, redes e fundamentos de infraestrutura
-- Pesquisa e análise de vulnerabilidades
-- Automação de tarefas de segurança
-- Cloud Security e DevSecOps
-- Inteligência artificial aplicada à segurança
+- Application Security (AppSec) e segurança de aplicações web/APIs
+- Identificação, validação e documentação de vulnerabilidades
+- Fundamentos de Pentest e testes de segurança autorizados
+- Linux, redes, protocolos e troubleshooting
+- Fundamentos de Cloud Security e DevSecOps
+- Automação e uso de IA como apoio a atividades de segurança
 
-## Projetos autorais em desenvolvimento
+## Projetos autorais
 
-| Projeto | Foco |
+| Projeto | Objetivo |
 |---|---|
-| **WiFi Sentinel** | Ferramentas e experimentos para auditoria e diagnóstico de redes Wi-Fi em ambientes autorizados |
-| **AEGIS** | Projeto de ferramentas modulares para avaliação de segurança |
-| **ORION** | Projeto autoral de tecnologia e automação em desenvolvimento |
+| **WiFi Sentinel** | Ferramentas de diagnóstico, monitoramento e auditoria de redes Wi-Fi em ambientes autorizados |
+| **AEGIS** | Framework modular em desenvolvimento para apoiar avaliações e auditorias de segurança |
+| **ORION** | Projeto de automação e inteligência com recursos de IA, em desenvolvimento |
 
-> Os projetos estão em evolução. Os repositórios de apresentação serão publicados com escopo, arquitetura, funcionalidades verificadas, instruções de laboratório e limitações. Não apresento funcionalidades planejadas como se já estivessem implementadas.
+Os projetos estão em evolução. A documentação pública distinguirá claramente funcionalidades implementadas, resultados de testes, limitações conhecidas e itens planejados. Não serão divulgados dados, credenciais ou informações de ambientes privados.
 
-## Formação e desenvolvimento
+## Formação
 
-- Tecnologia em Cibersegurança — FIAP (em andamento)
-- Estudos de Desenvolvimento Seguro de Aplicações e Cloud Security — Alura
-- Prática em laboratórios próprios e plataformas de treinamento
-- Desenvolvimento contínuo em Linux, redes, programação e segurança de aplicações
+- **Tecnologia em Cibersegurança — FIAP** (em andamento)
 
-## Princípios de trabalho
+## Cursos e desenvolvimento complementar
 
-- Testar somente sistemas próprios ou com autorização explícita
-- Documentar metodologia, evidências e resultados reproduzíveis
-- Priorizar segurança, privacidade e divulgação responsável
-- Separar funcionalidades implementadas de itens planejados
-- Construir ferramentas com escopo claro e controles de segurança
+- **Alura — Desenvolvimento Seguro de Aplicações** (estudos em andamento)
+- **Alura — Cloud Security** (estudos em andamento)
+- Prática em laboratórios próprios e ambientes de treinamento autorizados
+
+## Competências em desenvolvimento
+
+- Sistemas: Linux e Windows
+- Redes: fundamentos de TCP/IP, DNS, serviços e diagnóstico
+- Segurança: AppSec, análise de vulnerabilidades e fundamentos de Pentest
+- Ferramentas: Kali Linux, Burp Suite, Wireshark (em contexto de laboratório)
+- Automação e documentação técnica
+
+> As competências listadas representam estudos e prática em laboratório; não implicam experiência profissional ou certificação não concluída.
+
+## Princípios
+
+- Realizar testes somente em sistemas próprios ou com autorização explícita
+- Registrar escopo, metodologia, evidências e limitações
+- Priorizar privacidade, segurança e divulgação responsável
+- Diferenciar resultados verificados de hipóteses e funcionalidades planejadas
 
 ## Contato
 

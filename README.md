@@ -22,6 +22,7 @@ Busco uma oportunidade de entrada em Cibersegurança — como estágio ou posiç
 | **WiFi Sentinel** | Ferramentas de diagnóstico, monitoramento e auditoria de redes Wi-Fi em ambientes autorizados |
 | **AEGIS** | Framework modular em desenvolvimento para apoiar avaliações e auditorias de segurança |
 | **ORION** | Projeto de automação e inteligência com recursos de IA, em desenvolvimento |
+| **Android Mirror** | Projeto em desenvolvimento para espelhamento de tela Android, explorando Kotlin, comunicação em tempo real e WebRTC |
 
 Os projetos estão em evolução. A documentação pública distinguirá claramente funcionalidades implementadas, resultados de testes, limitações conhecidas e itens planejados. Não serão divulgados dados, credenciais ou informações de ambientes privados.
 
